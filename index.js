@@ -16,8 +16,6 @@ app.use("/payments" , payments)
 
 
 
-
-
 app.listen(port, ()=>{
     console.log("App is listening fine !!")
 })
